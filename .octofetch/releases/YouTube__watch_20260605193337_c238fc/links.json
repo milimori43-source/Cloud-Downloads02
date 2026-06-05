@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5785",
+  "folder": "YouTube__watch_20260605193337_c238fc",
+  "base_name": "Kemale_Gunesli_-_Royada_idim_2025_-4zwRlpVXEs_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/milimori43-source/Cloud-Downloads02/releases/tag/co-releases-v1-5785",
+  "files": [
+    {
+      "name": "Kemale_Gunesli_-_Royada_idim_2025_-4zwRlpVXEs_1080p.mp4",
+      "url": "https://github.com/milimori43-source/Cloud-Downloads02/releases/download/co-releases-v1-5785/Kemale_Gunesli_-_Royada_idim_2025_-4zwRlpVXEs_1080p.mp4",
+      "api_url": "https://api.github.com/repos/milimori43-source/Cloud-Downloads02/releases/assets/439598485",
+      "id": 439598485,
+      "size": 78238786,
+      "download_count": 0
+    }
+  ]
+}
