@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8791",
+  "folder": "YouTube__watch_20260619130047_97ef1c",
+  "base_name": "B_rBAGQpwOMpE_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/milimori43-source/Cloud-Downloads02/releases/tag/co-releases-v1-8791",
+  "files": [
+    {
+      "name": "B_rBAGQpwOMpE_720p.mp4",
+      "url": "https://github.com/milimori43-source/Cloud-Downloads02/releases/download/co-releases-v1-8791/B_rBAGQpwOMpE_720p.mp4",
+      "api_url": "https://api.github.com/repos/milimori43-source/Cloud-Downloads02/releases/assets/452206800",
+      "id": 452206800,
+      "size": 84790830,
+      "download_count": 0
+    }
+  ]
+}
