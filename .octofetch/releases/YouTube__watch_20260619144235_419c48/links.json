@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2909",
+  "folder": "YouTube__watch_20260619144235_419c48",
+  "base_name": "Session_163_Top_Notch_2B_Unit_6_Preview_163_2_6_yJBaV6HEKrU_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/milimori43-source/Cloud-Downloads02/releases/tag/co-releases-v1-2909",
+  "files": [
+    {
+      "name": "Session_163_Top_Notch_2B_Unit_6_Preview_163_2_6_yJBaV6HEKrU_720p.mp4",
+      "url": "https://github.com/milimori43-source/Cloud-Downloads02/releases/download/co-releases-v1-2909/Session_163_Top_Notch_2B_Unit_6_Preview_163_2_6_yJBaV6HEKrU_720p.mp4",
+      "api_url": "https://api.github.com/repos/milimori43-source/Cloud-Downloads02/releases/assets/452252078",
+      "id": 452252078,
+      "size": 93951920,
+      "download_count": 0
+    }
+  ]
+}
