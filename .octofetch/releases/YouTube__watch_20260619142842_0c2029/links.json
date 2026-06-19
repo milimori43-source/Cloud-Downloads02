@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3844",
+  "folder": "YouTube__watch_20260619142842_0c2029",
+  "base_name": "Session197_Unit_10_Top_Notch_2B_Grammar_Writing_197_10_2_ThANB_uGN8k_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/milimori43-source/Cloud-Downloads02/releases/tag/co-releases-v1-3844",
+  "files": [
+    {
+      "name": "Session197_Unit_10_Top_Notch_2B_Grammar_Writing_197_10_2_ThANB_uGN8k_720p.mp4",
+      "url": "https://github.com/milimori43-source/Cloud-Downloads02/releases/download/co-releases-v1-3844/Session197_Unit_10_Top_Notch_2B_Grammar_Writing_197_10_2_ThANB_uGN8k_720p.mp4",
+      "api_url": "https://api.github.com/repos/milimori43-source/Cloud-Downloads02/releases/assets/452242735",
+      "id": 452242735,
+      "size": 121088188,
+      "download_count": 0
+    }
+  ]
+}
