@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7767",
+  "folder": "YouTube__watch_20260619132622_ae83d3",
+  "base_name": "A_ODaDXfKtkKg_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/milimori43-source/Cloud-Downloads02/releases/tag/co-releases-v1-7767",
+  "files": [
+    {
+      "name": "A_ODaDXfKtkKg_720p.mp4",
+      "url": "https://github.com/milimori43-source/Cloud-Downloads02/releases/download/co-releases-v1-7767/A_ODaDXfKtkKg_720p.mp4",
+      "api_url": "https://api.github.com/repos/milimori43-source/Cloud-Downloads02/releases/assets/452199085",
+      "id": 452199085,
+      "size": 118228350,
+      "download_count": 0
+    }
+  ]
+}
